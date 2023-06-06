@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Basics
 build_property.RootNamespace = Basics
-build_property.ProjectDir = C:\Visual Studio 2022\Btk-Asp Mvc6\Basics\
+build_property.ProjectDir = c:\Visual Studio 2022\Btk-Asp Mvc6\Basics\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Visual Studio 2022\Btk-Asp Mvc6\Basics
+build_property.MSBuildProjectDirectory = c:\Visual Studio 2022\Btk-Asp Mvc6\Basics
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Visual Studio 2022/Btk-Asp Mvc6/Basics/Views/Home/Index.cshtml]
+[c:/Visual Studio 2022/Btk-Asp Mvc6/Basics/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Visual Studio 2022/Btk-Asp Mvc6/Basics/Views/Home/Privacy.cshtml]
+[c:/Visual Studio 2022/Btk-Asp Mvc6/Basics/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Visual Studio 2022/Btk-Asp Mvc6/Basics/Views/Shared/Error.cshtml]
+[c:/Visual Studio 2022/Btk-Asp Mvc6/Basics/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Visual Studio 2022/Btk-Asp Mvc6/Basics/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Visual Studio 2022/Btk-Asp Mvc6/Basics/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Visual Studio 2022/Btk-Asp Mvc6/Basics/Views/_ViewImports.cshtml]
+[c:/Visual Studio 2022/Btk-Asp Mvc6/Basics/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Visual Studio 2022/Btk-Asp Mvc6/Basics/Views/_ViewStart.cshtml]
+[c:/Visual Studio 2022/Btk-Asp Mvc6/Basics/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Visual Studio 2022/Btk-Asp Mvc6/Basics/Views/Shared/_Layout.cshtml]
+[c:/Visual Studio 2022/Btk-Asp Mvc6/Basics/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-o853urf686
